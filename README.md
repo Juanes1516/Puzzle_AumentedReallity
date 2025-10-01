@@ -11,7 +11,8 @@ Puzzle_AumentedReallity is an Augmented Reality application for HoloLens 2, buil
 
 ## Screenshot
 
-![Puzzle AR hand and eye tracking screenshot](images/screenshot1.png)
+<img width="1913" height="926" alt="image" src="https://github.com/user-attachments/assets/bb1d5898-b857-480c-a810-f3247c765260" />
+
 
 ## Installation
 
